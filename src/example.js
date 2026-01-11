@@ -1,4 +1,3 @@
-const unusedVar = 'this is unused';
-console.log('Hello world');
-let str = "double quotes";
-let num = 123
+// Fixed linting errors
+let str = 'single quotes';
+let num = 123;
